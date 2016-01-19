@@ -18,4 +18,9 @@ Creating a new branch is quick and simple.
 ---
 解决冲突后重新提交 Good job
 
+---
+2016-01-19 19:53:12 这是在github上添加的内容
+将从这里pull到本地去
+see u soon
+---
 
